@@ -5,15 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bf0b89d-7091-4553-a92d-d94dce62ca5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/manager/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/manager/ManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GRvINifEPV4P1nPYYOt5w2UiFy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,9 +37,109 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "C:/IT/Netologia/Java/Tasks/Poster/src/test/java/ru/netology",
+    "last_opened_file_path": "C:/IT/Netologia/Java/Tasks/Poster"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="clean test verify" />
+      <command value="mvn clean verify" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ManagerTest.addFilm0">
+    <configuration name="ManagerTest.addFilm0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.manager" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.manager.ManagerTest" />
+      <option name="METHOD_NAME" value="addFilm0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.test1FindLast10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.manager" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.manager.ManagerTest" />
+      <option name="METHOD_NAME" value="test1FindLast10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.test1FindLast2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.manager" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.manager.ManagerTest" />
+      <option name="METHOD_NAME" value="test1FindLast2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.test2FindLast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.manager" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.manager.ManagerTest" />
+      <option name="METHOD_NAME" value="test2FindLast" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.test5FindLast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.manager" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.manager.ManagerTest" />
+      <option name="METHOD_NAME" value="test5FindLast" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ManagerTest.addFilm0" />
+        <item itemvalue="JUnit.ManagerTest.test5FindLast" />
+        <item itemvalue="JUnit.ManagerTest.test1FindLast10" />
+        <item itemvalue="JUnit.ManagerTest.test2FindLast" />
+        <item itemvalue="JUnit.ManagerTest.test1FindLast2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
